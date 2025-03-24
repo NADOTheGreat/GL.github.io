@@ -23,7 +23,18 @@ layout: default
 - **Security+** -  To Be Started
 - **Network+** - To Be Started
 
+## Skills & Tools  
+- **Programming:** TBC  
+- **Cybersecurity:** TBC  
+- **Tools:** Wireshark, Kali Linux, Docker (More Coming)  
+- **Other:** Git, Linux Administration (More Coming)
 
+
+
+## Get In Touch  
+- [GitHub](https://github.com/NADOTheGreat)  
+- [LinkedIn] Temp BAN LOL  
+- george.lawson418@gmail.com 
 
 
 
