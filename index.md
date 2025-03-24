@@ -12,7 +12,7 @@ layout: default
 ### Home Security System  
 **Description:** Built a home security system using Raspberry Pi and motion sensors to monitor activity and notify via email.  
 **Tech Used:** Python, Flask, OpenCV
-[➡️ View Project](https://github.com/NADOTheGreat/Home-Security.git)
+[➡️ View Project](https://nadothegreat.github.io/Home-Security.github.io/)
 
 
 ## Certifications  
