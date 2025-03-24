@@ -2,6 +2,13 @@
 layout: default
 ---
 
+## 🛠️ Projects  
+
+### 🔒 Home Security System  
+**Description:** Built a home security system using Raspberry Pi and motion sensors to monitor activity and notify via email.  
+**Tech Used:** Python, Flask, OpenCV  
+[➡️ View Project](https://github.com/yourusername/home-security)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
