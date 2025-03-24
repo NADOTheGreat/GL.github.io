@@ -7,7 +7,7 @@ layout: default
 ### Home-Lab 
 **Description:** Built a home-lab using multiple machines (More Details Soon)  
 **Tech Used:** (More Details Soon)
-[View Project]([https://github.com/yourusername/home-security](https://github.com/NADOTheGreat/Home-Lab.git))
+[➡️ View Project]([https://github.com/yourusername/home-security](https://github.com/NADOTheGreat/Home-Lab.git))
 
 
 ## Certifications  
