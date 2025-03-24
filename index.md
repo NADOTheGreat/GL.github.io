@@ -9,6 +9,25 @@ layout: default
 **Tech Used:** (More Details Soon)
 [View Project]([https://github.com/yourusername/home-security](https://github.com/NADOTheGreat/Home-Lab.git))
 
+
+## Certifications  
+- **Google Cybersecurity** – In Progress  
+- **DeepLearning.AI Data Analytics** – To Be Started  
+- **Certified Ethical Hacking (v12) Specialization** – To Be Started
+- **IBM AI Engineering Professional** - To Be Started
+- **Security+** -  To Be Started
+- **Network+** - To Be Started
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
