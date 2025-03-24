@@ -33,7 +33,7 @@ layout: default
 
 ## Get In Touch  
 - [GitHub](https://github.com/NADOTheGreat)  
-- [LinkedIn] Temp BAN LOL  
+- [LinkedIn](https://www.linkedin.com/in/george-lawson-3809b1301/)  
 - george.lawson418@gmail.com 
 
 
