@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## 🛠️ Projects  
+## Projects  
 
-### 🔒 Home Security System  
-**Description:** Built a home security system using Raspberry Pi and motion sensors to monitor activity and notify via email.  
-**Tech Used:** Python, Flask, OpenCV  
-[➡️ View Project](https://github.com/yourusername/home-security)
+### Home-Lab 
+**Description:** Built a home-lab using multiple machines (More Details Soon)  
+**Tech Used:** (More Details Soon)
+[View Project]([https://github.com/yourusername/home-security](https://github.com/NADOTheGreat/Home-Lab.git))
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
