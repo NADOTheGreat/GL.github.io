@@ -9,6 +9,11 @@ layout: default
 **Tech Used:** (More Details Soon)
 [➡️ View Project]([https://github.com/yourusername/home-security](https://github.com/NADOTheGreat/Home-Lab.git))
 
+### Home Security System  
+**Description:** Built a home security system using Raspberry Pi and motion sensors to monitor activity and notify via email.  
+**Tech Used:** Python, Flask, OpenCV
+[➡️ View Project]([https://github.com/yourusername/home-security](https://github.com/NADOTheGreat/Home-Lab.git))
+
 
 ## Certifications  
 - **Google Cybersecurity** – In Progress  
